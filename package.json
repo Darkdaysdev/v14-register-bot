@@ -1,0 +1,29 @@
+{
+  "name": "haha",
+  "version": "0.0.1",
+  "description": "2018",
+  "main": "vegas.js",
+  "scripts": {
+    "start": "node vegas.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.2",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.5.1",
+    "@discordjs/voice": "^0.11.0",
+    "pretty-ms": "^8.0.0",
+    "parse-ms": "^3.0.0",
+    "table": "^6.8.0",
+    "discord-modals": "^1.3.9"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
